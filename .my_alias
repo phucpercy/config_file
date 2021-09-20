@@ -1,0 +1,7 @@
+alias glmr="glab mr"
+alias glci="glab ci"
+alias glpl="glab pipeline"
+alias caskI="brew install --cask"
+alias brews="brew search"
+alias py="python"
+alias rnt="react-native"
