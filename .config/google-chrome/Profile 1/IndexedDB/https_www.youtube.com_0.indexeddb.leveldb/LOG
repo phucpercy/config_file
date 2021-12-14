@@ -1,0 +1,33 @@
+2021/12/14-08:20:46.177 bb2b Reusing MANIFEST /home/phucp/.config/google-chrome/Profile 1/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/14-08:20:46.177 bb2b Recovering log #63
+2021/12/14-08:20:46.177 bb2b Reusing old log /home/phucp/.config/google-chrome/Profile 1/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000063.log 
+2021/12/14-09:19:04.142 df81 Level-0 table #68: started
+2021/12/14-09:19:04.161 df81 Level-0 table #68: 963132 bytes OK
+2021/12/14-09:19:04.169 df81 Delete type=0 #63
+2021/12/14-09:21:07.853 e08c Compacting 1@1 + 1@2 files
+2021/12/14-09:21:07.877 e08c Generated table #69@1: 464 keys, 41094 bytes
+2021/12/14-09:21:07.878 e08c Compacted 1@1 + 1@2 files => 41094 bytes
+2021/12/14-09:21:07.882 e08c compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/12/14-09:21:07.883 e08c Delete type=2 #68
+2021/12/14-09:21:07.883 e08c Delete type=2 #65
+2021/12/14-10:53:42.829 11d6a Level-0 table #71: started
+2021/12/14-10:53:42.873 11d6a Level-0 table #71: 1182343 bytes OK
+2021/12/14-10:53:42.881 11d6a Delete type=0 #67
+2021/12/14-10:57:01.499 11d3a Compacting 1@1 + 1@2 files
+2021/12/14-10:57:01.519 11d3a Generated table #72@1: 1129 keys, 46127 bytes
+2021/12/14-10:57:01.519 11d3a Compacted 1@1 + 1@2 files => 46127 bytes
+2021/12/14-10:57:01.526 11d3a compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/12/14-10:57:01.526 11d3a Delete type=2 #69
+2021/12/14-10:57:01.526 11d3a Delete type=2 #71
+2021/12/14-14:00:00.115 1694d Level-0 table #74: started
+2021/12/14-14:00:00.139 1694d Level-0 table #74: 1122256 bytes OK
+2021/12/14-14:00:00.147 1694d Delete type=0 #70
+2021/12/14-14:05:28.121 16c60 Compacting 1@1 + 1@2 files
+2021/12/14-14:05:28.129 16c60 Generated table #75@1: 720 keys, 48882 bytes
+2021/12/14-14:05:28.129 16c60 Compacted 1@1 + 1@2 files => 48882 bytes
+2021/12/14-14:05:28.134 16c60 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/12/14-14:05:28.134 16c60 Delete type=2 #74
+2021/12/14-14:05:28.134 16c60 Delete type=2 #72
+2021/12/14-16:21:05.600 1a6b2 Level-0 table #77: started
+2021/12/14-16:21:05.632 1a6b2 Level-0 table #77: 1050190 bytes OK
+2021/12/14-16:21:05.639 1a6b2 Delete type=0 #73

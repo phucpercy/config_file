@@ -1,0 +1,6 @@
+2021/12/13-13:24:14.929 92e Reusing MANIFEST /home/phucp/.config/google-chrome/Profile 1/Sync Data/LevelDB/MANIFEST-000001
+2021/12/13-13:24:14.929 92e Recovering log #248
+2021/12/13-13:24:14.930 92e Reusing old log /home/phucp/.config/google-chrome/Profile 1/Sync Data/LevelDB/000248.log 
+2021/12/13-13:33:16.113 12de Level-0 table #252: started
+2021/12/13-13:33:16.124 12de Level-0 table #252: 107561 bytes OK
+2021/12/13-13:33:16.130 12de Delete type=0 #248

@@ -14,9 +14,6 @@
 # Remove older command from the history if a duplicate is to be added.
 setopt HIST_IGNORE_ALL_DUPS
 
-# Set default java to 11 
-export JAVA_HOME=$(/usr/libexec/java_home -v 11.0.8)
-
 #
 # Input/output
 #
@@ -124,14 +121,5 @@ bindkey '^N' history-substring-search-down
 bindkey -M vicmd 'k' history-substring-search-up
 bindkey -M vicmd 'j' history-substring-search-down
 # }}} End configuration added by Zim install
-
- export PATH="/usr/local/opt/imagemagick@6/bin:$PATH" 
- export PATH="/usr/local/opt/imagemagick@6/bin:$PATH" 
-
-# The next line updates PATH for the Google Cloud SDK.
-if [ -f '/Users/phuc_pt/HiQ/google-cloud-sdk/path.zsh.inc' ]; then . '/Users/phuc_pt/HiQ/google-cloud-sdk/path.zsh.inc'; fi
-
-# The next line enables shell command completion for gcloud.
-if [ -f '/Users/phuc_pt/HiQ/google-cloud-sdk/completion.zsh.inc' ]; then . '/Users/phuc_pt/HiQ/google-cloud-sdk/completion.zsh.inc'; fi
 
 source ~/.my_alias

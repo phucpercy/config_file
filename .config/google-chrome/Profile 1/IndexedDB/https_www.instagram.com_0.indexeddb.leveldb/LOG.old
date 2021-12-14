@@ -1,0 +1,7 @@
+2021/12/11-12:53:08.069 7104a Reusing MANIFEST /home/phucp/.config/google-chrome/Profile 1/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/11-12:53:08.069 7104a Recovering log #3
+2021/12/11-12:53:08.071 7104a Reusing old log /home/phucp/.config/google-chrome/Profile 1/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/000003.log 
+2021/12/11-12:53:37.218 71097 Level-0 table #5: started
+2021/12/11-12:53:37.223 71097 Level-0 table #5: 140462 bytes OK
+2021/12/11-12:53:37.228 71097 Delete type=0 #3
+2021/12/11-12:53:37.228 71097 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

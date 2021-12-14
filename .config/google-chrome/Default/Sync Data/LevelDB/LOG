@@ -1,0 +1,42 @@
+2021/12/13-13:37:30.103 688 Reusing MANIFEST /home/phucp/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2021/12/13-13:37:30.106 688 Recovering log #90
+2021/12/13-13:37:30.108 688 Reusing old log /home/phucp/.config/google-chrome/Default/Sync Data/LevelDB/000090.log 
+2021/12/13-13:40:22.000 f9d Level-0 table #94: started
+2021/12/13-13:40:22.006 f9d Level-0 table #94: 101043 bytes OK
+2021/12/13-13:40:22.011 f9d Delete type=0 #90
+2021/12/13-13:40:22.011 f9d Compacting 4@0 + 1@1 files
+2021/12/13-13:40:22.016 f9d Generated table #95@0: 118 keys, 25593 bytes
+2021/12/13-13:40:22.016 f9d Compacted 4@0 + 1@1 files => 25593 bytes
+2021/12/13-13:40:22.020 f9d compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/12/13-13:40:22.020 f9d Delete type=2 #91
+2021/12/13-13:40:22.020 f9d Delete type=2 #89
+2021/12/13-13:40:22.020 f9d Delete type=2 #84
+2021/12/13-13:40:22.020 f9d Delete type=2 #87
+2021/12/13-13:40:22.020 f9d Delete type=2 #94
+2021/12/13-15:43:47.266 4062 Level-0 table #97: started
+2021/12/13-15:43:47.270 4062 Level-0 table #97: 88055 bytes OK
+2021/12/13-15:43:47.276 4062 Delete type=0 #93
+2021/12/14-08:35:09.481 be99 Level-0 table #99: started
+2021/12/14-08:35:09.495 be99 Level-0 table #99: 98190 bytes OK
+2021/12/14-08:35:09.504 be99 Delete type=0 #96
+2021/12/14-10:00:53.505 10749 Level-0 table #101: started
+2021/12/14-10:00:53.510 10749 Level-0 table #101: 91673 bytes OK
+2021/12/14-10:00:53.515 10749 Delete type=0 #98
+2021/12/14-11:28:41.434 13442 Level-0 table #103: started
+2021/12/14-11:28:41.440 13442 Level-0 table #103: 92132 bytes OK
+2021/12/14-11:28:41.445 13442 Delete type=0 #100
+2021/12/14-11:28:41.445 13442 Compacting 4@0 + 1@1 files
+2021/12/14-11:28:41.452 13442 Generated table #104@0: 122 keys, 18836 bytes
+2021/12/14-11:28:41.452 13442 Compacted 4@0 + 1@1 files => 18836 bytes
+2021/12/14-11:28:41.457 13442 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/12/14-11:28:41.457 13442 Delete type=2 #95
+2021/12/14-11:28:41.457 13442 Delete type=2 #101
+2021/12/14-11:28:41.457 13442 Delete type=2 #103
+2021/12/14-11:28:41.457 13442 Delete type=2 #97
+2021/12/14-11:28:41.457 13442 Delete type=2 #99
+2021/12/14-14:27:20.258 175a9 Level-0 table #106: started
+2021/12/14-14:27:20.263 175a9 Level-0 table #106: 92525 bytes OK
+2021/12/14-14:27:20.269 175a9 Delete type=0 #102
+2021/12/14-15:16:38.306 18d40 Level-0 table #108: started
+2021/12/14-15:16:38.313 18d40 Level-0 table #108: 100091 bytes OK
+2021/12/14-15:16:38.319 18d40 Delete type=0 #105

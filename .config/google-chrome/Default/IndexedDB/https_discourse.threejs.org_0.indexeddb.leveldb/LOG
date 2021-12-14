@@ -1,0 +1,15 @@
+2021/12/13-10:48:36.405 41a6 Reusing MANIFEST /home/phucp/.config/google-chrome/Default/IndexedDB/https_discourse.threejs.org_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/13-10:48:36.405 41a6 Recovering log #4
+2021/12/13-10:48:36.405 41a6 Reusing old log /home/phucp/.config/google-chrome/Default/IndexedDB/https_discourse.threejs.org_0.indexeddb.leveldb/000004.log 
+2021/12/13-10:49:10.988 41a8 Level-0 table #8: started
+2021/12/13-10:49:10.991 41a8 Level-0 table #8: 1755 bytes OK
+2021/12/13-10:49:10.997 41a8 Delete type=0 #4
+2021/12/13-10:49:10.997 41a8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/12/13-10:49:10.997 41a8 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01 \x03\x00`o\x81\x1e\xdbwB\x00\x01>\x00d\x00i\x00s\x00c\x00o\x00u\x00r\x00s\x00e\x00-\x001\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00d\x00i\x00s\x00c\x00o\x00u\x00r\x00s\x00e\x00.\x00t\x00h\x00r\x00e\x00e\x00j\x00s\x00.\x00o\x00r\x00g\x00/\x00m\x00a\x00n\x00i\x00f\x00e\x00s\x00t\x00.\x00w\x00e\x00b\x00m\x00a\x00n\x00i\x00f\x00e\x00s\x00t' @ 137 : 1
+2021/12/13-10:49:10.997 41a8 Compacting 1@1 + 1@2 files
+2021/12/13-10:49:11.001 41a8 Generated table #9@1: 39 keys, 1987 bytes
+2021/12/13-10:49:11.001 41a8 Compacted 1@1 + 1@2 files => 1987 bytes
+2021/12/13-10:49:11.006 41a8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/12/13-10:49:11.007 41a8 Delete type=2 #5
+2021/12/13-10:49:11.007 41a8 Delete type=2 #8
+2021/12/13-10:49:11.007 41a8 Manual compaction at level-1 from '\x00\x01\x01 \x03\x00`o\x81\x1e\xdbwB\x00\x01>\x00d\x00i\x00s\x00c\x00o\x00u\x00r\x00s\x00e\x00-\x001\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00d\x00i\x00s\x00c\x00o\x00u\x00r\x00s\x00e\x00.\x00t\x00h\x00r\x00e\x00e\x00j\x00s\x00.\x00o\x00r\x00g\x00/\x00m\x00a\x00n\x00i\x00f\x00e\x00s\x00t\x00.\x00w\x00e\x00b\x00m\x00a\x00n\x00i\x00f\x00e\x00s\x00t' @ 137 : 1 .. (end); will stop at (end)

@@ -1,0 +1,33 @@
+2021/12/13-13:37:30.100 3 Reusing MANIFEST /home/phucp/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2021/12/13-13:37:30.102 3 Recovering log #362
+2021/12/13-13:37:30.103 3 Reusing old log /home/phucp/.config/google-chrome/Default/Local Storage/leveldb/000362.log 
+2021/12/13-13:40:17.360 3 Level-0 table #367: started
+2021/12/13-13:40:17.365 3 Level-0 table #367: 119355 bytes OK
+2021/12/13-13:40:17.370 3 Delete type=0 #362
+2021/12/13-14:37:52.114 1d Level-0 table #369: started
+2021/12/13-14:37:52.119 1d Level-0 table #369: 130116 bytes OK
+2021/12/13-14:37:52.126 1d Delete type=0 #366
+2021/12/13-17:12:05.060 25 Level-0 table #371: started
+2021/12/13-17:12:05.067 25 Level-0 table #371: 17037 bytes OK
+2021/12/13-17:12:05.075 25 Delete type=0 #368
+2021/12/14-09:53:41.851 92 Level-0 table #373: started
+2021/12/14-09:53:41.856 92 Level-0 table #373: 17010 bytes OK
+2021/12/14-09:53:41.862 92 Delete type=0 #370
+2021/12/14-09:53:41.862 92 Compacting 4@0 + 1@1 files
+2021/12/14-09:53:41.900 92 Generated table #374@0: 2517 keys, 926273 bytes
+2021/12/14-09:53:41.900 92 Compacted 4@0 + 1@1 files => 926273 bytes
+2021/12/14-09:53:41.905 92 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/12/14-09:53:41.906 92 Delete type=2 #364
+2021/12/14-09:53:41.906 92 Delete type=2 #371
+2021/12/14-09:53:41.906 92 Delete type=2 #373
+2021/12/14-09:53:41.906 92 Delete type=2 #367
+2021/12/14-09:53:41.906 92 Delete type=2 #369
+2021/12/14-10:37:38.901 a4 Level-0 table #376: started
+2021/12/14-10:37:38.906 a4 Level-0 table #376: 126682 bytes OK
+2021/12/14-10:37:38.912 a4 Delete type=0 #372
+2021/12/14-14:06:49.856 c0 Level-0 table #378: started
+2021/12/14-14:06:49.861 c0 Level-0 table #378: 17105 bytes OK
+2021/12/14-14:06:49.869 c0 Delete type=0 #375
+2021/12/14-15:16:38.189 e8 Level-0 table #380: started
+2021/12/14-15:16:38.193 e8 Level-0 table #380: 16316 bytes OK
+2021/12/14-15:16:38.199 e8 Delete type=0 #377

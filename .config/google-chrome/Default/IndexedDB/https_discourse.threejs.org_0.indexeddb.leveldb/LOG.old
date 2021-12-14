@@ -1,0 +1,6 @@
+2021/12/10-14:22:43.946 5af76 Creating DB /home/phucp/.config/google-chrome/Default/IndexedDB/https_discourse.threejs.org_0.indexeddb.leveldb since it was missing.
+2021/12/10-14:22:43.955 5af76 Reusing MANIFEST /home/phucp/.config/google-chrome/Default/IndexedDB/https_discourse.threejs.org_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/10-14:23:18.570 5b08f Level-0 table #5: started
+2021/12/10-14:23:18.575 5b08f Level-0 table #5: 2837 bytes OK
+2021/12/10-14:23:18.580 5b08f Delete type=0 #3
+2021/12/10-14:23:18.580 5b08f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

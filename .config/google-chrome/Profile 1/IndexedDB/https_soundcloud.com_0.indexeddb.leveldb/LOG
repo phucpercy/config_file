@@ -1,0 +1,6 @@
+2021/12/09-09:07:41.070 3ab78 Creating DB /home/phucp/.config/google-chrome/Profile 1/IndexedDB/https_soundcloud.com_0.indexeddb.leveldb since it was missing.
+2021/12/09-09:07:41.080 3ab78 Reusing MANIFEST /home/phucp/.config/google-chrome/Profile 1/IndexedDB/https_soundcloud.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/11-09:52:28.791 6b32c Level-0 table #5: started
+2021/12/11-09:52:28.796 6b32c Level-0 table #5: 3927 bytes OK
+2021/12/11-09:52:28.804 6b32c Delete type=0 #3
+2021/12/11-09:52:28.804 6b32c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

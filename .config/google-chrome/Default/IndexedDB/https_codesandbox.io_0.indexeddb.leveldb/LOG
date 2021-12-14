@@ -1,0 +1,7 @@
+2021/12/07-10:23:08.529 1852e Reusing MANIFEST /home/phucp/.config/google-chrome/Default/IndexedDB/https_codesandbox.io_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/07-10:23:08.529 1852e Recovering log #3
+2021/12/07-10:23:08.529 1852e Reusing old log /home/phucp/.config/google-chrome/Default/IndexedDB/https_codesandbox.io_0.indexeddb.leveldb/000003.log 
+2021/12/07-10:24:35.611 1852e Level-0 table #5: started
+2021/12/07-10:24:35.615 1852e Level-0 table #5: 2820 bytes OK
+2021/12/07-10:24:35.620 1852e Delete type=0 #3
+2021/12/07-10:24:35.620 1852e Manual compaction at level-0 from (begin) .. (end); will stop at (end)

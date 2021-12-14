@@ -1,0 +1,7 @@
+2021/12/08-09:56:28.431 29dab Reusing MANIFEST /home/phucp/.config/google-chrome/Default/IndexedDB/https_4j7m47vlm4.csb.app_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/08-09:56:28.431 29dab Recovering log #3
+2021/12/08-09:56:28.432 29dab Reusing old log /home/phucp/.config/google-chrome/Default/IndexedDB/https_4j7m47vlm4.csb.app_0.indexeddb.leveldb/000003.log 
+2021/12/08-09:56:51.320 29ddc Level-0 table #5: started
+2021/12/08-09:56:51.326 29ddc Level-0 table #5: 34363 bytes OK
+2021/12/08-09:56:51.331 29ddc Delete type=0 #3
+2021/12/08-09:56:51.332 29ddc Manual compaction at level-0 from (begin) .. (end); will stop at (end)

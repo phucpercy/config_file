@@ -1,0 +1,6 @@
+AngularJS
+com.android.tools.idea.smali
+com.jetbrains.codeWithMe
+intellij.ktor
+org.jetbrains.android
+org.jetbrains.kotlin

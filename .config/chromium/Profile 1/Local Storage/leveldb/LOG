@@ -1,0 +1,18 @@
+2021/12/06-18:18:57.777 3 Reusing MANIFEST /home/phucp/.config/chromium/Profile 1/Local Storage/leveldb/MANIFEST-000001
+2021/12/06-18:18:57.779 3 Recovering log #3
+2021/12/06-18:18:57.781 3 Reusing old log /home/phucp/.config/chromium/Profile 1/Local Storage/leveldb/000003.log 
+2021/12/06-18:30:27.675 7 Level-0 table #5: started
+2021/12/06-18:30:27.680 7 Level-0 table #5: 130471 bytes OK
+2021/12/06-18:30:27.686 7 Delete type=0 #3
+2021/12/06-18:31:45.784 7 Level-0 table #7: started
+2021/12/06-18:31:45.790 7 Level-0 table #7: 57800 bytes OK
+2021/12/06-18:31:45.814 7 Delete type=0 #4
+2021/12/06-18:32:09.944 7 Level-0 table #9: started
+2021/12/06-18:32:09.950 7 Level-0 table #9: 39648 bytes OK
+2021/12/06-18:32:09.956 7 Delete type=0 #6
+2021/12/06-18:32:14.766 d Level-0 table #11: started
+2021/12/06-18:32:14.770 d Level-0 table #11: 43071 bytes OK
+2021/12/06-18:32:14.778 d Delete type=0 #8
+2021/12/06-18:51:26.924 d Level-0 table #13: started
+2021/12/06-18:51:26.929 d Level-0 table #13: 47284 bytes OK
+2021/12/06-18:51:26.934 d Delete type=0 #10

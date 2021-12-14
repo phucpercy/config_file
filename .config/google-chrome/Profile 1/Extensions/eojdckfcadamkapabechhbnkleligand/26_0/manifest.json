@@ -1,0 +1,36 @@
+{
+   "author": "LOC",
+   "background": {
+      "scripts": [ "scripts/analytics.js", "scripts/background.min.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "16": "favicon.png",
+         "24": "favicon.png",
+         "32": "favicon.png"
+      },
+      "default_title": "L.O.C"
+   },
+   "commands": {
+      "_execute_browser_action": {
+         "suggested_key": {
+            "default": "Ctrl+Shift+S",
+            "mac": "Command+Shift+S"
+         }
+      }
+   },
+   "content_security_policy": "script-src 'self' 'unsafe-eval' https://js.stripe.com/v3 https://ssl.google-analytics.com https://apis.google.com https://*.facebook.com; object-src 'self'",
+   "description": "L.O.C is a collection of automation tools.",
+   "icons": {
+      "128": "favicon.png",
+      "16": "favicon.png",
+      "48": "favicon.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqahVqMXqk5aDgtd1otdtcr1edwYGCyUE2ZfvXNhTGqui5fqnd/uL2QL3wwLuxYdSTXMcQMweJW36/t8LmLYLCqECIff+3yTth5JapjJTKuJx4203BsMK60sKCLN2Rb89nPZAD9kEo5If7knNV06x1CpBirbRCVgEMXfB5KUo7D172MXrHM3AmJPUOPzB0hAxaEeQ9K352PIui6ulJB1E0zOuvOrJEW9FzsIP7CeEI9Qgb2emmI7lJaRhv8uYzTudH5XzkiHn/OfslkPWwp107oKMHNVPz2uJewRRG7wBYmxZpbeYmKsRlSNeNJMBr2h+tugkERnpQOZMd/Tw1QvZ1wIDAQAB",
+   "manifest_version": 2,
+   "name": "L.O.C",
+   "permissions": [ "https://*.messenger.com/*", "https://*.facebook.com/*", "https://mtfb.lnmai.com/*", "notifications", "cookies", "webRequest", "webRequestBlocking", "storage", "unlimitedStorage" ],
+   "short_name": "L.O.C",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "26"
+}

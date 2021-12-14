@@ -1,0 +1,6 @@
+2021/12/14-08:37:47.850 cf10 Creating DB /home/phucp/.config/google-chrome/Profile 1/IndexedDB/https_chat.zalo.me_0.indexeddb.leveldb since it was missing.
+2021/12/14-08:37:47.859 cf10 Reusing MANIFEST /home/phucp/.config/google-chrome/Profile 1/IndexedDB/https_chat.zalo.me_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/14-08:37:50.610 cf10 Level-0 table #5: started
+2021/12/14-08:37:50.613 cf10 Level-0 table #5: 3295 bytes OK
+2021/12/14-08:37:50.618 cf10 Delete type=0 #3
+2021/12/14-08:37:50.618 cf10 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

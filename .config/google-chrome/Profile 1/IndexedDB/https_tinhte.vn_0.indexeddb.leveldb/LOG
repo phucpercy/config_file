@@ -1,0 +1,6 @@
+2021/12/11-09:07:28.775 6a0fa Creating DB /home/phucp/.config/google-chrome/Profile 1/IndexedDB/https_tinhte.vn_0.indexeddb.leveldb since it was missing.
+2021/12/11-09:07:28.785 6a0fa Reusing MANIFEST /home/phucp/.config/google-chrome/Profile 1/IndexedDB/https_tinhte.vn_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/11-09:09:30.660 6a03a Level-0 table #5: started
+2021/12/11-09:09:30.663 6a03a Level-0 table #5: 1944 bytes OK
+2021/12/11-09:09:30.668 6a03a Delete type=0 #3
+2021/12/11-09:09:30.669 6a03a Manual compaction at level-0 from (begin) .. (end); will stop at (end)

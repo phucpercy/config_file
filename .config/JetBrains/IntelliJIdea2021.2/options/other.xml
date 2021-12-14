@@ -1,0 +1,57 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/bin/node" />
+    <local-interpreter path="/usr/bin/node" />
+  </component>
+  <component name="ProjectPluginTrackerManager">
+    <trackers>
+      <map>
+        <entry key="21upMhXfgqUshjqbQ0fRITdRiry">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="225eaYmj3W8NxwtH6z4K0jzXyVL">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ColorChooser.RecentColors" value="255-0-0-255,,,255-0-115-255,,,255-45-0-255,,,0-54-245-255,,,190-0-255-255,,,255-223-0-255,,,11-255-0-255,,,17-0-0-255,,,255-255-255-116" />
+    <property name="KEYMAP" value="duplica&#10;dup&#10;new&#10;new file&#10;recent" />
+    <property name="MarketplacePluginsSearchHistory" value="vim" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="SettingsSearchHistory" value="short&#10;shortcut" />
+    <property name="appcds.runOnSecondStart" value="IU-212.5457.46-f0de6747b15322d8a967bd30dbe167c630caa8b53e11eb8aee19c9dfb35e9246" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="eclipse.projects.detected" value="" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/versehub/nextverse-homepage&#10;/home/phucp/versehub/nextverse-play" />
+    <property name="file.gist.reindex.count" value="272" />
+    <property name="fileTypeChangedCounter" value="5" />
+    <property name="fileTypeDetectors" value="com.intellij.database.vfs.DbStorageFileType$Detector:com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector:com.intellij.profiler.ultimate.hprof.impl.HprofFileTypeDetector:com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector:com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector:org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector" />
+    <property name="got.it.tooltip.cwm.invitation.notification" value="1" />
+    <property name="got.it.tooltip.reader.mode.got.it" value="1" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="ide.updates.previous.build.number" value="IU-212.5457.46" />
+    <property name="ide.updates.whats.new.shown.for" value="212" />
+    <property name="ideavim.statistics.timestamp" value="1639449398986" />
+    <property name="input.method.disabler.muted" value="true" />
+    <property name="installed.kotlin.plugin.version" value="212-1.5.10-release-IJ5457.46" />
+    <property name="last_opened_file_path" value="$USER_HOME$/versehub/nextverse-play" />
+    <property name="log.trace.categories" value="#com.jetbrains.rdserver.requests&#10;#com.jetbrains.rd.ide.document&#10;#com.jetbrains.rdserver.document&#10;#com.jetbrains.rdserver.editors&#10;#com.jetbrains.rdserver.actions&#10;#com.jetbrains.rdserver.permissions" />
+    <property name="packagesearch.endpoint.url.fulltext" value="https://package-search.services.jetbrains.com/api/search/idea/fulltext" />
+    <property name="packagesearch.endpoint.url.suggest" value="https://package-search.services.jetbrains.com/api/search/idea/suggest" />
+    <property name="packagesearch.status.updated.ts" value="1639455255301" />
+    <property name="registry.to.advanced.settings.migration.build" value="IU-212.5457.46" />
+    <property name="settings.code.style.selected.tab.TypeScript" value="Spaces" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="4.3.5" />
+  </component>
+  <component name="ToolbarSettingsService">
+    <option name="NEW_TOOLBAR_SETTINGS" value="OLD_NAVBAR" />
+  </component>
+</application>
