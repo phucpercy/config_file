@@ -1,8 +1,0 @@
-2021/12/06-18:23:15.011 3 Creating DB /home/phucp/.config/chromium/Profile 2/Local Storage/leveldb since it was missing.
-2021/12/06-18:23:15.043 3 Reusing MANIFEST /home/phucp/.config/chromium/Profile 2/Local Storage/leveldb/MANIFEST-000001
-2021/12/06-18:24:34.222 7 Level-0 table #5: started
-2021/12/06-18:24:34.227 7 Level-0 table #5: 132491 bytes OK
-2021/12/06-18:24:34.232 7 Delete type=0 #3
-2021/12/06-18:26:31.006 7 Level-0 table #7: started
-2021/12/06-18:26:31.013 7 Level-0 table #7: 33531 bytes OK
-2021/12/06-18:26:31.021 7 Delete type=0 #4

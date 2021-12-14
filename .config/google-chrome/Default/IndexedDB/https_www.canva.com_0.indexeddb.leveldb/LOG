@@ -1,6 +1,0 @@
-2021/12/11-09:32:09.166 6abaa Creating DB /home/phucp/.config/google-chrome/Default/IndexedDB/https_www.canva.com_0.indexeddb.leveldb since it was missing.
-2021/12/11-09:32:09.176 6abaa Reusing MANIFEST /home/phucp/.config/google-chrome/Default/IndexedDB/https_www.canva.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/12/11-09:35:55.747 6ad95 Level-0 table #5: started
-2021/12/11-09:35:55.750 6ad95 Level-0 table #5: 3038 bytes OK
-2021/12/11-09:35:55.755 6ad95 Delete type=0 #3
-2021/12/11-09:35:55.755 6ad95 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

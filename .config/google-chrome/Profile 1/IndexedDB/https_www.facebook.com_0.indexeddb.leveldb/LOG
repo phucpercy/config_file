@@ -1,6 +1,0 @@
-2021/12/06-19:44:42.826 d463 Creating DB /home/phucp/.config/google-chrome/Profile 1/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb since it was missing.
-2021/12/06-19:44:42.835 d463 Reusing MANIFEST /home/phucp/.config/google-chrome/Profile 1/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/12/06-19:45:14.873 d507 Level-0 table #5: started
-2021/12/06-19:45:14.877 d507 Level-0 table #5: 1939 bytes OK
-2021/12/06-19:45:14.882 d507 Delete type=0 #3
-2021/12/06-19:45:14.883 d507 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

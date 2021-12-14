@@ -1,1 +1,0 @@
-{Intel/Mesa Intel(R) UHD Graphics 630 (CML GT2)/4.6 (Core Profile) Mesa 21.2.5}=SUPPORTED

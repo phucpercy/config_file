@@ -1,6 +1,0 @@
-2021/12/08-10:33:35.333 2adbe Creating DB /home/phucp/.config/google-chrome/Default/IndexedDB/https_m03s3.csb.app_0.indexeddb.leveldb since it was missing.
-2021/12/08-10:33:35.343 2adbe Reusing MANIFEST /home/phucp/.config/google-chrome/Default/IndexedDB/https_m03s3.csb.app_0.indexeddb.leveldb/MANIFEST-000001
-2021/12/09-14:20:47.570 42443 Level-0 table #5: started
-2021/12/09-14:20:47.577 42443 Level-0 table #5: 37399 bytes OK
-2021/12/09-14:20:47.583 42443 Delete type=0 #3
-2021/12/09-14:20:47.584 42443 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
