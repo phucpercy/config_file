@@ -5,3 +5,9 @@ alias caskI="brew install --cask"
 alias brews="brew search"
 alias py="python"
 alias rnt="react-native"
+alias pbcopy='xsel --clipboard --input'
+alias pbpaste='xsel --clipboard --output'
+alias yayI='yay -S'
+alias gpso='git push origin "$(git-branch-current 2> /dev/null)"'
+alias dkcp='docker-compose'
+alias gbso='git branch --set-upstream-to=origin/"$(git-branch-current 2> /dev/null)" "$(git-branch-current 2> /dev/null)"'
