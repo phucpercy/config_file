@@ -122,4 +122,30 @@ bindkey -M vicmd 'k' history-substring-search-up
 bindkey -M vicmd 'j' history-substring-search-down
 # }}} End configuration added by Zim install
 
+ export PATH="/usr/local/opt/imagemagick@6/bin:$PATH" 
+ export PATH="/usr/local/opt/imagemagick@6/bin:$PATH" 
+
+# The next line updates PATH for the Google Cloud SDK.
+if [ -f '/Users/phuc_pt/HiQ/google-cloud-sdk/path.zsh.inc' ]; then . '/Users/phuc_pt/HiQ/google-cloud-sdk/path.zsh.inc'; fi
+
+# The next line enables shell command completion for gcloud.
+if [ -f '/Users/phuc_pt/HiQ/google-cloud-sdk/completion.zsh.inc' ]; then . '/Users/phuc_pt/HiQ/google-cloud-sdk/completion.zsh.inc'; fi
+
+eval "$(pyenv init --path)"
+
 source ~/.my_alias
+
+export GTK_IM_MODULE=ibus
+export QT_IM_MODULE=ibus
+export XMODIFIERS=@im=ibus
+export QT4_IM_MODULE=ibus
+export CLUTTER_IM_MODULE=ibus
+
+setxkbmap -option ctrl:swapcaps
+
+export DEV_HOST=139.180.147.219
+export UAT_HOST=149.28.147.231
+
+
+[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
+. "/home/phucp/.acme.sh/acme.sh.env"
