@@ -91,11 +91,14 @@ ZSH_HIGHLIGHT_HIGHLIGHTERS=(main brackets)
 # Initialize modules
 # ------------------
 
-if [[ ${ZIM_HOME}/init.zsh -ot ${ZDOTDIR:-${HOME}}/.zimrc ]]; then
-  # Update static initialization script if it's outdated, before sourcing it
-  source ${ZIM_HOME}/zimfw.zsh init -q
+ZIM_HOME=~/.zim
+# Download zimfw smart script if it's missing
+if [[ ! -e ${ZIM_HOME}/zimfw.zsh ]]; then
+  curl -fsSL --create-dirs -o ${ZIM_HOME}/zimfw.zsh \
+      https://github.com/zimfw/zimfw/releases/latest/download/zimfw.zsh
 fi
-source ${ZIM_HOME}/init.zsh
+# Source the zimfw script so the command works
+source ${ZIM_HOME}/zimfw.zsh init -q
 
 # ------------------------------
 # Post-init module configuration
@@ -125,27 +128,24 @@ bindkey -M vicmd 'j' history-substring-search-down
  export PATH="/usr/local/opt/imagemagick@6/bin:$PATH" 
  export PATH="/usr/local/opt/imagemagick@6/bin:$PATH" 
 
-# The next line updates PATH for the Google Cloud SDK.
-if [ -f '/Users/phuc_pt/HiQ/google-cloud-sdk/path.zsh.inc' ]; then . '/Users/phuc_pt/HiQ/google-cloud-sdk/path.zsh.inc'; fi
-
-# The next line enables shell command completion for gcloud.
-if [ -f '/Users/phuc_pt/HiQ/google-cloud-sdk/completion.zsh.inc' ]; then . '/Users/phuc_pt/HiQ/google-cloud-sdk/completion.zsh.inc'; fi
 
 eval "$(pyenv init --path)"
 
 source ~/.my_alias
+source ${ZIM_HOME}/init.zsh
 
-export GTK_IM_MODULE=ibus
-export QT_IM_MODULE=ibus
-export XMODIFIERS=@im=ibus
-export QT4_IM_MODULE=ibus
-export CLUTTER_IM_MODULE=ibus
+#[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
+#. "/home/phucp/.acme.sh/acme.sh.env"
+#
 
-setxkbmap -option ctrl:swapcaps
+# Zsh:
+# ~/.zshrc:
+[ -f $HOMEBREW_PREFIX/share/forgit/forgit.plugin.zsh ] && source $HOMEBREW_PREFIX/share/forgit/forgit.plugin.zsh
 
-export DEV_HOST=139.180.147.219
-export UAT_HOST=149.28.147.231
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh" # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion" # This loads nvm bash_completion
 
-
-[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
-. "/home/phucp/.acme.sh/acme.sh.env"
+export SDKMAN_DIR="$HOME/.sdkman"
+[[ -s "$HOME/.sdkman/bin/sdkman-init.sh" ]] && source "$HOME/.sdkman/bin/sdkman-init.sh"
+export PATH="$HOME/.local/bin:$PATH"

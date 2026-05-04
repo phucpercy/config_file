@@ -41,6 +41,5 @@ zmodule homebrew
 zmodule djui/alias-tips
 zmodule junegunn/fzf -s shell/completion.zsh -s shell/key-bindings.zsh
 zmodule wfxr/forgit
-zmodule anhptvolga/zim-modules -s fasd.plugin.zsh -s git.plugin.zsh -s custom.plugin.zsh
-
-
+zmodule anhptvolga/zim-modules -s git.plugin.zsh -s custom.plugin.zsh -s  fasd.plugin.zsh
+zmodule Aloxaf/fzf-tab
