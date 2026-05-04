@@ -5,9 +5,17 @@ alias caskI="brew install --cask"
 alias brews="brew search"
 alias py="python"
 alias rnt="react-native"
-alias pbcopy='xsel --clipboard --input'
-alias pbpaste='xsel --clipboard --output'
+#alias pbcopy='xsel --clipboard --input'
+#alias pbpaste='xsel --clipboard --output'
 alias yayI='yay -S'
 alias gpso='git push origin "$(git-branch-current 2> /dev/null)"'
 alias dkcp='docker-compose'
 alias gbso='git branch --set-upstream-to=origin/"$(git-branch-current 2> /dev/null)" "$(git-branch-current 2> /dev/null)"'
+alias gsrd='git reset $(git merge-base develop $(git branch --show-current))'
+alias gsrod='git reset $(git merge-base origin/develop $(git branch --show-current))'
+alias gpf='gpb -f'
+alias gsum='gs -u -m'
+alias gsu='gs -u'
+alias gbsu='git branch --set-upstream-to=origin/$(git rev-parse --abbrev-ref HEAD)'
+alias awsv='aws-vault'
+alias fm='yazi'
